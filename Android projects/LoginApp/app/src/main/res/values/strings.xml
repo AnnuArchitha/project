@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="article_title">2011 World Cup History</string>
+    <string name="article_subheading">2011 ICC Cricket World Cup</string>
+    <string name="article_text">India became the first home nation to win a World Cup when they defeated Sri Lanka
+        in the final at the iconic Wankhede. It was an emotional journey for India as
+        it was Sachin Tendulkar\s final appearance in crickets biggest extravaganza.
+
+        Having played in a record five World Cups for India before the 2011 World Cup,
+        this was Sachin\s last chance to win the title.
+
+        Sri Lanka won the toss and Mahela Jayawardene\s unbeaten 103 took the islanders to 274/6 in 50 overs.
+        India were in trouble when they lost both Sachin and Sehwag at 31/2.
+
+        But it was for the 109-run stand between captain MS Dhoni (91 not out) and Gautam Gambhir (97)
+        that took India to the cusp of victory before Dhoni and Yuvraj Singh finished it off.
+
+        Earlier,India defeated arch-rivals Pakistan in the semi-final whereas Sri Lanka defeated New Zealand in the other semi-final.
+
+
+        Pakistan were hoping to upstage India at the Punjab Cricket Association Stadium in Mohali
+        but the much-vaunted challenge fell away before the professional Indian outfit.
+    To know more visit website www.google.com
+    The 2011 ICC Cricket World Cup was the tenth Cricket World Cup. It was played in India, Sri Lanka, and (for the first time) Bangladesh. India won the tournament, defeating Sri Lanka by 6 wickets in the final at Wankhede Stadium in Mumbai, thus becoming the first country to win the Cricket World Cup final on home soil.[1][2] India\'s Yuvraj Singh was declared the man of the tournament.[3] This was the first time in World Cup history that two Asian teams had appeared in the final. It was also the first time since the 1992 World Cup that the final match did not feature Australia.
+
+All the matches were One Day Internationals, and all were played over 50 overs. Fourteen national cricket teams took part, including 10 full members and four associate members of the ICC.[4] The opening ceremony was held on 17 February 2011 at Bangabandhu National Stadium, Dhaka,[5] and the tournament was played between 19 February and 2 April. The first match was played between India and Bangladesh at the Sher-e-Bangla National Stadium in Mirpur, Dhaka.[6]
+
+Pakistan was also scheduled to be a co-host, but after the 2009 attack on the Sri Lanka national cricket team in Lahore, the International Cricket Council (ICC) cancelled that,[7] and the headquarters of the organising committee, originally in Lahore, was transferred to Mumbai.[8] Pakistan was to have held 14 matches, including one semi-final.[9] Eight of the games (including the semi-final) were awarded to India, four to Sri Lanka, and two to Bangladesh.[10]
+
+
+Contents
+1	Host selection
+2	Format
+3	Qualification
+3.1	List of qualified teams
+4	Preparations
+4.1	Pakistan loses co-host status
+4.2	Allocation of matches
+4.3	Media and promotion
+4.3.1	Song
+4.3.2	Mascot
+5	Opening ceremony
+6	Prize money
+7	Venues
+8	Umpires
+9	Squads
+10	Matches
+10.1	Warm-up matches
+10.2	Group stage
+10.2.1	Group A
+10.2.2	Group B
+10.3	Knockout stage
+10.3.1	Quarter-finals
+10.3.2	Semi-finals
+10.3.3	Final
+11	Statistics
+12	Controversies
+13	See also
+14	References and notes
+</string>
+
+    <string name="login">Login</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_username">Enter Username</string>
+
+    <string name="enter_your_password">Enter your password</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="enter_your_email_id_end_with_gmail_com">Enter your email id end with @gmail.com</string>
+
+    <string name="username">Enter user name</string>
+    <string name="password">Enter your password</string>
+    <string name="signup">signup</string>
+    <string name="signin">signin</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="email_id">Email id</string>
+    <string name="email_id_gmail_com">Email id(@gmail.com)</string>
+</resources>

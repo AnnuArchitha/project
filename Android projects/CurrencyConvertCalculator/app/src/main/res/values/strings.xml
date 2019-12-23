@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Currency ConvertCalculator</string>
+    <string name="select_currency_to_be_converted">Select Currency to be Converted</string>
+    <string name="american_dollar">American Dollar</string>
+    <string name="uk_pound">UK Pound</string>
+    <string name="australian_dollar">Australian Dollar</string>
+    <string name="france_euro">France Euro</string>
+    <string name="netherland_euro">NetherLand Euro</string>
+    <string name="canada_dollar">Canada Dollar</string>
+    <string name="singapur_dollar">Singapur Dollar</string>
+    <string name="indian_rupee">Indian Rupee</string>
+    <string name="switzerland_franc">SwitzerLand Franc</string>
+    <string name="japan_yen">Japan Yen</string>
+    <string name="china_yuan">China Yuan</string>
+    <string name="germany_euro">Germany Euro</string>
+    <string name="swedan_krona">Swedan Krona</string>
+    <string name="hongkong_dollar">HongKong Dollar</string>
+    <string name="mexico_peso">Mexico Peso</string>
+    <string name="unitedarabemirates_dirham">UnitedArabEmirates Dirham</string>
+    <string name="convert_into">Convert Into</string>
+    <string name="enter_emount">Enter Emount</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="converted_amount">converted Amount</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AutoCompletion</string>
+    <string name="select_country">Select Country</string>
+    <string name="type_country_name">Type Country Name</string>
+
+    <string name="type_state_in_india">Type State in India</string>
+    <string name="type_wanted_country">Type wanted Country</string>
+    <string name="enter_country_name">Enter Country Name</string>
+    <string name="enter_state_name">Enter State Name</string>
+    />
+</resources>

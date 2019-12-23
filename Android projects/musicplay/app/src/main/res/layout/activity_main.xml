@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:orientation="vertical"
+        android:layout_marginTop="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp">
+
+<Button
+    android:background="#FAD02E"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:layout_marginBottom="20dp"
+    android:textSize="20sp"
+    android:text="@string/play"
+    android:textAlignment="center"
+    android:textColor="#fff"
+    android:onClick="playMe"
+    android:id="@+id/button"/>
+
+<Button
+    android:background="#EC4849"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:textSize="20sp"
+    android:text="@string/pause"
+    android:textColor="#fff"
+    android:textAlignment="center"
+    android:onClick="pauseMe"
+    android:id="@+id/button2"/>
+
+</LinearLayout>
+
+
+    <LinearLayout
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:orientation="vertical"
+        android:layout_marginTop="24dp">
+
+<SeekBar
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:id="@+id/seekBar"/>
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/volume"
+            android:textAlignment="center"
+            android:textColor="@android:color/holo_blue_dark" />
+
+<SeekBar
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:id="@+id/timeline"/>
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/timeline"
+            android:textAlignment="center"
+            android:textColor="@android:color/holo_blue_dark" />
+
+</LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

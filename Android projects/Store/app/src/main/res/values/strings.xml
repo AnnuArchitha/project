@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Store</string>
+    <string name="enter_name">enter name</string>
+    <string name="enter_email">enter email</string>
+    <string name="enter_phone_no">enter phone no</string>
+    <string name="login">login</string>
+</resources>

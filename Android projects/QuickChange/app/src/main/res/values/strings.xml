@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuickChange</string>
+    <string name="blue">Blue</string>
+    <string name="yellow">Yellow</string>
+    <string name="red">Red</string>
+    <string name="orange">Orange</string>
+    <string name="purple">Purple</string>
+    <string name="skyblue">SkyBlue</string>
+    <string name="green">Green</string>
+</resources>

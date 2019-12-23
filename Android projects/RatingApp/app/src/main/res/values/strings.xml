@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RatingApp</string>
+    <string name="submitt">Submitt</string>
+    <string name="ratingvalue">RatingValue</string>
+    <string name="res">I will make pic as beautiful as possible</string>
+    <string name="rating">Rating</string>
+</resources>
